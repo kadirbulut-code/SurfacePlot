@@ -1,0 +1,12 @@
+{
+    "line_count": 9,
+    "line_spacing": 7.0,
+    "x_length": 100.0,
+    "feed_rate_cut": 200.0,
+    "feed_rate_rapid": 1200.0,
+    "dwell_time": 40,
+    "save_directory": "C:/Users/IDEA KADIR/Desktop",
+    "serial_port": "COM1",
+    "baud_rate": 9600,
+    "zero_point": 8000
+}
